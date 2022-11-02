@@ -16,3 +16,6 @@ for key, value in ages.items():
 for key in ages:
     print(key)
 
+for letter in 'my_string':
+    print(letter)
+
